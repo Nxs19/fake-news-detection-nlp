@@ -1,0 +1,30 @@
+# Pre-trained embeddings & archives (>100 MB)
+glove.6B.100d.txt
+glove*.txt
+*.zip
+
+# Raw datasets (ISOT True.csv & Fake.csv)
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+.env.*
+
+# IDE & OS clutter
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
